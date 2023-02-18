@@ -92,7 +92,7 @@ A conceptual architecture diagram is a high-level representation of the system t
 
 ![]()
 
-[Link](https://lucid.app/lucidchart/ba03d85a-41c1-45f1-9e3b-da36b4acb287/edit?viewport_loc=180%2C-62%2C1306%2C756%2C0_0&invitationId=inv_922c0a19-dccc-46e0-aad6-fb33b7a35c71)
+[Link](https://lucid.app/lucidchart/ba03d85a-41c1-45f1-9e3b-da36b4acb287/edit?viewport_loc=102%2C-62%2C1461%2C756%2C0_0&invitationId=inv_922c0a19-dccc-46e0-aad6-fb33b7a35c71)
 
 
 ## Logical Architectual Diagram in Lucid Charts
