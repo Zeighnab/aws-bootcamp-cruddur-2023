@@ -51,36 +51,36 @@ Two budgets will be created, one for AWS credits and the other for actual dollar
 
 * On the AWS Console, click on your account name and go to billing
 
-![]()
+![](../journal_img/week.0/1.png)
 
 * Click on "Budgets" and create a budget
 
-![]()
+![](../journal_img/week.0/2.png)
 
-![]()
+![](../journal_img/week.0/3.png)
 
 * For AWS Credits,
   * Select "Customized (advanced)", then "Cost budget (recommended)"
-  ![]()
+  ![](../journal_img/week.0/8.png)
 
   * Give the budget a unique name
-  ![]()
+  ![](../journal_img/week.0/9.png)
 
   * Input your budgeted amount
   ![]()
 
   * Under "Supported charges types", choose "credits" only
-  ![]()
-  ![]()
+  ![](../journal_img/week.0/10.png)
+  ![](../journal_img/week.0/11.png)
 
   * Next and configure threshold for 50%, 75% and 100% and email address
-  ![]()
-  ![]()
-  ![]()
+  ![](../journal_img/week.0/12.png)
+  ![](../journal_img/week.0/13.png)
+  ![](../journal_img/week.0/14.png)
 
 * For actual dollar spend, 
   * Follow the same steps above except in the "Supported charges types", choose all except "credits"
-  ![]()
+  ![](../journal_img/week.0/15.png)
 
 ## EventBridge
 
@@ -90,7 +90,7 @@ EventBridge is a serverless service that uses events to connect application comp
 
 A conceptual architecture diagram is a high-level representation of the system that shows the major components and how they interact with each other. It is often used in the early stages of a project to communicate the overall design and approach. This diagram is focused on the business concepts, requirements and goals of the system, and does not get into the details of specific technologies, platforms, or protocols.
 
-![]()
+![](../journal_img/week.0/Cruddur-Conceptual%20Diagram.png)
 
 [Link](https://lucid.app/lucidchart/ba03d85a-41c1-45f1-9e3b-da36b4acb287/edit?viewport_loc=124%2C-146%2C1461%2C756%2C0_0&invitationId=inv_922c0a19-dccc-46e0-aad6-fb33b7a35c71)
 
@@ -99,3 +99,6 @@ A conceptual architecture diagram is a high-level representation of the system t
 
 A logical architecture diagram is a more detailed representation of the system that shows how the major components and subsystems fit together, as well as how data flows between them. This diagram is focused on the logical components of the system, and often includes information about specific technologies, platforms, and protocols that will be used.
 
+![](../journal_img/week.0/Logical%20Diagram.png)
+
+[Link to View](https://lucid.app/lucidchart/87a4979b-dceb-4aea-bac0-7033fd268960/edit?viewport_loc=7435%2C2500%2C2241%2C1160%2C0_0&invitationId=inv_13d834a0-42dd-465b-8271-43c36de41104)
