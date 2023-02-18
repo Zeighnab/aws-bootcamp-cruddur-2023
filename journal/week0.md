@@ -63,24 +63,25 @@ Two budgets will be created, one for AWS credits and the other for actual dollar
   * Select "Customized (advanced)", then "Cost budget (recommended)"
   ![](../journal_img/week.0/8.png)
 
-  * Give the budget a unique name
+  * Give the budget a unique name.
   ![](../journal_img/week.0/9.png)
 
   * Input your budgeted amount
-  ![]()
+  ![](../journal_img/week.0/10.png)
 
   * Under "Supported charges types", choose "credits" only
-  ![](../journal_img/week.0/10.png)
   ![](../journal_img/week.0/11.png)
+  ![](../journal_img/week.0/12.png)
 
   * Next and configure threshold for 50%, 75% and 100% and email address
-  ![](../journal_img/week.0/12.png)
   ![](../journal_img/week.0/13.png)
   ![](../journal_img/week.0/14.png)
+  ![](../journal_img/week.0/15.png)
+  ![](../journal_img/week.0/16.png)
 
 * For actual dollar spend, 
   * Follow the same steps above except in the "Supported charges types", choose all except "credits"
-  ![](../journal_img/week.0/15.png)
+  ![](../journal_img/week.0/17.png)
 
 ## EventBridge
 
